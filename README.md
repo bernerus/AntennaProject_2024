@@ -1,4 +1,4 @@
-# YAYA -Yet anoter Yagi Antenna (or Array)
+# YAYA – Yet another Yagi Antenna (or Array)
 All details about my 2m antenna project 2024-2025.
 
 Once in the mid 1990's my old 2x2 stack of 10 element WISI yagis for 2m
