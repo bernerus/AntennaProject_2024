@@ -1,5 +1,5 @@
-# AntennaProject_2024
-All details about my 2m antenna project 2024
+# YAYA -Yet anoter Yagi Antenna (or Array)
+All details about my 2m antenna project 2024-2025.
 
 Once in the mid 1990's my old 2x2 stack of 10 element WISI yagis for 2m
 crashed irreparably in a storm. In order to remain on the air I built a 15 element yagi using a popular design by DJ9BV.
@@ -18,4 +18,5 @@ To do that I purchsed a 3D printer. I wanted
 to make element mounts in a plastic that does not deteriorate in UV light. The best material available for 3D printing 
 is ASA. That called for a #D printed with a heated bed and at least 270°C nozzle temperature.
 The AnkerMake M5C seemed to fit the requirements and matching the wallet.
-I have used the OpenScad software for the design. I am (or was) a professional software developer after all.
+I have used the OpenScad software for the design. After all, I used to be a professional system developer.
+
