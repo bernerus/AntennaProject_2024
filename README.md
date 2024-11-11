@@ -22,7 +22,8 @@ is ASA. That called for a #D printed with a heated bed and at least 270°C nozzl
 The AnkerMake M5C seemed to fit the requirements and matching the wallet.
 
 ### Open Source
-I have used the OpenScad software for the design. I am (or was) a professional software developer after all before retiring.
-This is why I'll publishing the OpenScad source code for the element mounts, hoping that they can be of use for others.
-If you use them and make changes, do fork this repository and make those changers public. 
+I have used the OpenScad software for the design. I am (or was) a professional software developer after all, before retiring.
+This is why I'll publish the OpenScad source code for the element mounts, and for the other 3D printed parts that I'm using,
+hoping that they can be of use for others.
+If you use them and make changes, please fork this repository and make your changes public. 
 
